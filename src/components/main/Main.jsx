@@ -7,7 +7,7 @@ const Main = () => {
         <p className='nav'> hi akul</p>
         <div>
             <div className='vid'>
-                <a href="#"><img src="/akula.gif" alt="" /></a>
+                <a href="#"><img src="/latst.gif" alt="" /></a>
             </div>
         </div>
     </div>
